@@ -72,6 +72,8 @@ sl_rt_grph %>%
 
 ggsave("Superleague_rt_graph.pdf")  
 
+
+#credits to the creators of the assignment
 @misc{ddw2021,
   title={"Social Media and Web Analytics"},
   author={Lachlan Deer and Henrik de With},
@@ -79,4 +81,4 @@ ggsave("Superleague_rt_graph.pdf")
   url = "https://tisem-digital-marketing.github.io/2021-smwa"}
 
 
-
+#원숭이도 나무에서 떨어질 때가 있다
